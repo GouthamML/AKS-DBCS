@@ -12,11 +12,11 @@ from sqlalchemy.orm import sessionmaker
 
 #Oracle Database Cloud Service credentials
 #documentation https://docs.cloud.oracle.com/en-us/iaas/Content/Database/Tasks/connectingDB.htm
-username = "system"
-password = "ABKK_tt_33ABKG_tt_33"
-ip = "150.136.215.22"
-service_name = "DBScbank_iad1hr.vcn1000016.appdevvcn1.oraclevcn.com"
-tableName = "SCOTIAOKEDEMO"
+username = ""
+password = ""
+ip = ""
+service_name = ""
+tableName = ""
 
 #Creating Connection sursor
 print("\n\nInitiating connection\n\n")
