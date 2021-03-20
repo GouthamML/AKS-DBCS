@@ -6,7 +6,7 @@ Flask==1.1.2
 iniparse==0.4
 ipaddress==1.0.16
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 kitchen==1.1.1
 MarkupSafe==1.1.1
 pycurl==7.19.0
